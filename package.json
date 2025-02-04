@@ -16,5 +16,8 @@
     "url": "https://github.com/KauanBotz/estudos-typescript/issues"
   },
   "homepage": "https://github.com/KauanBotz/estudos-typescript#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
 }
